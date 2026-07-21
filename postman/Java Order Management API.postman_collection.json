@@ -1,0 +1,11 @@
+{
+  "info": {
+    "_postman_id": "2b28af05-da9f-42e4-b408-4daab736ddbd",
+    "name": "Java Order Management API",
+    "description": "Create Product  \nView All Products  \nView Product by ID  \nUpdate Product  \nDelete Product  \nPlace Order  \nView All Orders  \nView Order by ID  \nCancel Order",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "56710894",
+    "_collection_link": "https://go.postman.co/collection/56710894-2b28af05-da9f-42e4-b408-4daab736ddbd?source=collection_link"
+  },
+  "item": []
+}
